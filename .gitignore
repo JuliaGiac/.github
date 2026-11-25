@@ -1,0 +1,7 @@
+# Gitallow: deny everything, then allow tracked content explicitly.
+*
+
+!.gitignore
+!README.md
+!profile/
+!profile/README.md
