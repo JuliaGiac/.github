@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuliaGiac/.github/main/brand/assets/juliagiac-mark-light.svg">
+    <img src="https://raw.githubusercontent.com/JuliaGiac/.github/main/brand/assets/juliagiac-mark.svg" alt="JuliaGiac" width="140">
+  </picture>
+</p>
+
 # JuliaGiac
 
 JuliaGiac brings [Giac](https://www-fourier.univ-grenoble-alpes.fr/~parisse/giac.html),
