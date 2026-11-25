@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- The visual identity moved to
+  [JuliaGiac/site-kit](https://github.com/JuliaGiac/site-kit) (`brand/`),
+  with the other parts the web sites share. The profile takes the mark from
+  there.
+
 ### Added
 
 - Organisation profile (`profile/README.md`) presenting the layers of the

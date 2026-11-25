@@ -4,15 +4,5 @@
 !.gitignore
 !README.md
 !CHANGELOG.md
-!justfile
 !profile/
 !profile/README.md
-
-# Visual identity: the generator, its environment and its output.
-# brand/Manifest.toml stays ignored.
-!brand/
-!brand/Project.toml
-!brand/README.md
-!brand/make_brand.jl
-!brand/assets/
-!brand/assets/**
